@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InnoBuzAppTask</string>
+    <string name="accessibility_service_description">Testing the accessibility</string>
+</resources>
