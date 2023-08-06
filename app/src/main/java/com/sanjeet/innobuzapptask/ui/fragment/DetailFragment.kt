@@ -41,8 +41,6 @@ class DetailFragment : Fragment() {
             binding?.tvTitle?.text = "Title : ${postItem.title}"
             binding?.tvbody?.text = "Description :  ${postItem.body}"
         }
-
-
         return binding?.root!!
     }
 

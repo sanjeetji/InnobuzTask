@@ -1,4 +1,4 @@
-package com.sanjeet.innobuzapptask
+package com.sanjeet.innobuzapptask.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
